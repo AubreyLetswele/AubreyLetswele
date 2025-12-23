@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AubreyLetswele
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning HTML, CSS, JS, C#, SQL, SAS, and R.
+- 👀 I’m interested in Data Science and Machine Learning Engineering
+- 🌱 I’m currently learning Python, R, SQL, and SAS.
 - 📖 I'm a full-time undergraduate student at a University
 - 💞️ I’m looking to collaborate on projects aimed at developing developers' skills.
 - 📫 WhatsApp: 0680273033 or Email: aubreyletz8@gmail.com
