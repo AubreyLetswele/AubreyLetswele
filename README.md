@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AubreyLetswele
-- 👀 I’m interested in Data Science and Machine Learning Engineering
+- 👀 I’m interested in Data Science and Machine Learning
+- 📈 I'm open to software and web dev (HTML, CSS, JS, TS, Angular C#)
 - 🌱 I’m currently learning Python, R, SQL, and SAS.
 - 📖 I'm a full-time undergraduate student at a University
 - 💞️ I’m looking to collaborate on projects aimed at developing developers' skills.
