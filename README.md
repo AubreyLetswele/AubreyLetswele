@@ -14,7 +14,6 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-00487f?style=for-the-badge&logo=sas&logoColor=white) 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <br/>
 
