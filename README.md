@@ -7,7 +7,7 @@
 ---
 
 ### 💻 Data Science & Analytics
-*I’m interested in Data Science and Machine Learning;*
+*I’m interested in Data Science and Analytics;*
 *I am currently learning Python and SAS*
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
